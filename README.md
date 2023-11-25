@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Cloud Development**
+
 - 💬 Ask me about **Web Development, Backend Development**
 
-- 📫 How to reach me **atul2012atul@gmail.com**
+- 📫 How to reach me **atul2012atul@gmail.com, kumar.atu@northeastern.edu**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d4i96SWT9cPiwE4BdqAqSIwW7B2nzTfS/view?usp=drive_link](https://drive.google.com/file/d/1d4i96SWT9cPiwE4BdqAqSIwW7B2nzTfS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulya1&show_icons=true&locale=en" alt="atulya1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulya1&" alt="atulya1" /></p>
-
