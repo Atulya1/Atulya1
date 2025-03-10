@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Maching Learning Operations**
+- 🌱 I’m currently learning **Machine Learning Operations**
 
-- 💬 Ask me about **Web Development, Backend Development**
+- 💬 Ask me about **Web Development, Backend Development, Cloud Computing, Machine Learning**
 
 - 📫 How to reach me **atul2012atul@gmail.com, kumar.atu@northeastern.edu**
 
